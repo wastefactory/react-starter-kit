@@ -6,11 +6,11 @@ There are two methods for getting started with this repo.
 
 #Using Git
     > git clone https://github.com/wastefactory/react-starter-kit.git
-    > cd react-start-kit
+    > cd react-starter-kit
     > npm install
     > npm start
 
 #Downloading Zip
-    > cd react-start-kit
+    > cd react-starter-kit
     > npm install
     > npm start
