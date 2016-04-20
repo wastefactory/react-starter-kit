@@ -9,8 +9,10 @@ There are two methods for getting started with this repo.
     > cd react-starter-kit
     > npm install
     > npm start
+    > go to http://localhost:8080/
 
 #Downloading Zip
     > cd react-starter-kit
     > npm install
     > npm start
+    > go to http://localhost:8080/
