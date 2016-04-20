@@ -1,5 +1,5 @@
 # react-starter-kit
-React starter kit with  webpack + babel
+This is a simple React starter kit with webpack + babel
 
 #Getting Started
 There are two methods for getting started with this repo.
